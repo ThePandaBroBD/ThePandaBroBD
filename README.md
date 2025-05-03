@@ -9,8 +9,8 @@
 ### 💻 Tech I Work With:
 - ⚙️ **Laravel**, PHP, MySQL
 - 🌐 JavaScript, Vue.js, Inertia.js
-- 🧰 Git, VS Code, Docker
-- 📚 Teaching Full-Stack Development (Laravel + Vue)
+- 🖥️ Windows App Development (C#)
+- 🧰 Git, VS Code
 
 ---
 
