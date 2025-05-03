@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Panda — aka The Panda Bro 🐼
 
-🎯 **Developer | Educator | Content Creator**  
+🎯 **Full-time bug fixer | Part-time life coach for aspiring devs | Panda with a plan 🐼**  
 📺 I run a YouTube channel — [The Panda Bro](https://youtube.com/@TheRealPandaBro) — where I share **Laravel tutorials**, **coding vlogs**, **tech talk**, and more!  
 🎥 Whether you're a beginner or learning on the go, you're always welcome to join the journey.
 
